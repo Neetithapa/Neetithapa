@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Neetithapa
+- 👀 I’m interested in programming and web development 
+- 🌱 I’m currently learning c++ language
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...email id:Neetithapadpsv@gmail.com 
+
+<!---
+Neetithapa/Neetithapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
