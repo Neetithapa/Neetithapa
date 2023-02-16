@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neetithapa
+- 👋 Hi, I’m @NeetiThapa
 - 👀 I’m interested in programming particularly in web development and cybersecurity 
 - 🌱 I’m currently learning c++ and java language
 - 💞️ I’m looking to collaborate on ...
