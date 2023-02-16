@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neetithapa
-- 👀 I’m interested in programming and web development 
-- 🌱 I’m currently learning c++ language
+- 👀 I’m interested in programming particularly in web development and cybersecurity 
+- 🌱 I’m currently learning c++ and java language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email id:Neetithapadpsv@gmail.com 
 
