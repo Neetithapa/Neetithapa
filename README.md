@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @NeetiThapa
-- 👀 I’m interested in web development and cybersecurity 
-- 🌱 I’m currently learning c++ and java 
-- 📫 Reach me at-email id:Neetithapadpsv@gmail.com 
+Hello there!
+I'm a learner,passionate about frontend development and blockchain technology.
+Please feel free to explore my work and achievements.
+
+Reach me at-email id:Neetithapadpsv@gmail.com 
 
 <!---
 Neetithapa/Neetithapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
